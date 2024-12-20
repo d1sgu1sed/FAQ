@@ -3,7 +3,9 @@
 
 ## Для запуска чат-бота:
 ``` pip install -r requirements.txt ```
+
 ``` python faq_model.py ``` - если надо обучить и получить файл с моделью
+
 ``` python faq_chatbot.py ```
 
 ## Демо:
